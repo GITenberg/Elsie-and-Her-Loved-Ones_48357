@@ -1,4 +1,8 @@
 _repo: Elsie-and-Her-Loved-Ones_48357
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48357-h/images/cover.jpg
 creator:
   author:
     agent_name: Finley, Martha
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2044
     wikipedia: http://www.readseries.com/auth-dm/finley1.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48357#Elsie-and-Her-Loved-Ones
 gutenberg_issued: '2015-02-25'
 gutenberg_type: Text
 identifiers:
